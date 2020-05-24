@@ -9,5 +9,3 @@ Technologies used:
 
 Future:
 * Display a keyboard to make it work on mobile
-
-https://pacific-anchorage-14846.herokuapp.com/circles.html
